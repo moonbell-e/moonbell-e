@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?moonbell-e=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moonbell-e)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **moonbell-e/moonbell-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
