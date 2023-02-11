@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-	<h1>Greetings, stranger <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+	<h1>Greetings <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
 ## Glad that you decided to visit my page! I'm Aigerim, student of Moscow Polytechnic University. :student: Gamedev is my passion, though i'm eager to learn new technologies and languages. Rising Fullstack and Game developer :dizzy:
