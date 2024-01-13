@@ -32,7 +32,7 @@
  ### Contact me:
 
 <div id="socials" align="left">
-	<a href="linkedin-url">
+	<a href="https://www.linkedin.com/in/aigerim-almazova/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://t.me/litata1">
