@@ -3,7 +3,7 @@
 	<h1>Greetings <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-## Glad that you decided to visit my page! I'm Aigerim, experienced Unity Developer. Gamedev is my passion, though i'm eager to learn new technologies and languages. 
+## Glad that you decided to visit my page! I'm Aigerim, Unity Developer with 4+ years of experience. Gamedev is my passion, though i'm eager to learn new technologies and languages. 
 
 ### Here are some of my trophies:
 
